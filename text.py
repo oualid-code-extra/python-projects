@@ -27,3 +27,6 @@ def main():
     else:
         print("error: invalid operation")
 main()
+
+finally:
+    print("Thank you for using the calculator.")
